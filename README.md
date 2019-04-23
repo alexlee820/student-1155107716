@@ -17,5 +17,5 @@ I have strudied 2-year progamming but I am a **new comer** of GitHub. I'm intere
 |    Weight   | 68kg |
 
 ## Screenshots
-https://github.com/csci3250-2019/student-1155107716/blob/master/SC1.JPG
-https://github.com/csci3250-2019/student-1155107716/blob/master/SC2.JPG
+![GitHub Logo](https://github.com/csci3250-2019/student-1155107716/blob/master/SC1.JPG)
+![GitHub Logo](https://github.com/csci3250-2019/student-1155107716/blob/master/SC2.JPG)
